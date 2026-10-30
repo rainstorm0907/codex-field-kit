@@ -1,0 +1,4 @@
+interface:
+  display_name: "함께 생각하기"
+  short_description: "경험과 새 관점으로 질문과 선택을 함께 다듬어요"
+  default_prompt: "codex-discusser를 사용해 지금 경험과 질문을 함께 살펴봐 주세요. 이미 정한 것은 유지하고, 필요한 차이가 보이면 관점을 제안해 주세요."
