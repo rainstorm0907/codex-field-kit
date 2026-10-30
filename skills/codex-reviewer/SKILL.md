@@ -1,7 +1,6 @@
 ---
 name: codex-reviewer
 description: "Standalone, evidence-based review of a requested code diff or plan (리뷰, 코드 리뷰, diff 리뷰, plan/design review, P0-P4, VERDICT). Not for a session that already holds a taskforce owner/verifier role; visual/UI review goes to frontend-design."
-disallowed-tools: Write, Edit, NotebookEdit
 ---
 
 # Code & Plan Reviewer

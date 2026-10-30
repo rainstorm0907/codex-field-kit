@@ -1,7 +1,6 @@
 ---
 name: metaframe
 description: "When observations contradict the current explanation or local fixes keep breaking each other, decide whether to keep or change the approach. Not a procedure for diverging on every new task or for widening authority."
-argument-hint: "[current work or the question to reconsider]"
 ---
 
 # Decide again whether to keep the current approach
